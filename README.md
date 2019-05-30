@@ -1,5 +1,3 @@
-[![inxome-image][inXomeImage]][report]
-
 ###### Report entry 2019 May 27: raaabc v12
 
 ***
@@ -1403,9 +1401,6 @@ Deleted topic [projects/inxome-10101/topics/gcr].
 [6]: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 [7]: https://kubernetes.io/docs/concepts/workloads/pods/pod/
 [8]: https://kubernetes.io/docs/concepts/services-networking/service/
-
-[inXomeImage]: ../../../inxome.png
-[report]: https://github.com/inxome/project/tree/master/report "Report"
 
 [Sec7]: https://codelabs.developers.google.com/codelabs/cloud-spinnaker-kubernetes-cd/index.html?index=..%2F..index#6
 [Fig1]: codelab.png
